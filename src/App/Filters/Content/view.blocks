@@ -1,0 +1,19 @@
+Content View
+is together
+  Horizontal
+  alignItems center
+  justifyContent spaceBetween
+  paddingLeft 15
+  paddingRight 15
+  paddingTop 10
+  paddingBottom 10
+  borderTopColor #e6e6e6
+  borderTopStyle solid
+  borderTopWidth 1
+    Count
+    Horizontal
+      AllFilter
+      ActiveFilter
+      CompletedFilter
+    ClearCompletedAction
+  

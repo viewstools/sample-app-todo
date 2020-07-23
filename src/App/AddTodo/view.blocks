@@ -1,0 +1,12 @@
+AddTodo View
+is together
+  Horizontal
+  backgroundColor white
+  shadowBlur 1
+  shadowColor rgba(0, 0, 0, 0.03)
+  shadowOffsetX 0
+  shadowOffsetY -2
+  shadowSpread 0
+  shadowInset true
+    AllDoneAction
+    TodoInput

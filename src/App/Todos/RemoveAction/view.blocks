@@ -1,0 +1,13 @@
+RemoveAction View
+is together
+  Vertical
+  position absolute
+  right 20
+    ButtonIcon
+    onClick <
+      XIcon
+      stroke #cc9a9a
+      width 16
+      height 16
+      when <isHovered
+      stroke #af5b5e

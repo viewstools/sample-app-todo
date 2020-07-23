@@ -1,0 +1,17 @@
+Footer View
+is together
+  Info
+  marginTop 55
+  text Double-click to edit a todo
+  Horizontal
+  marginTop 10
+    Info
+    marginRight 4
+    text Created by
+    ViewsLink
+  Horizontal
+  marginTop 10
+    Info
+    marginRight 4
+    text Part of
+    TodoMvcLink

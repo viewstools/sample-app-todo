@@ -1,0 +1,12 @@
+TodoInput View
+is together
+data todo.text
+dataValidate isNotEmpty
+  Input
+  autoFocus true
+  onSubmit <
+  onChange <
+  value <
+  isInvalid <
+  autoFocus true
+  

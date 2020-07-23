@@ -1,0 +1,15 @@
+Content View
+is together
+  Vertical
+  width 45
+  height 65
+  alignItems center
+  justifyContent center
+  onClick <
+    Text
+    rotate 90deg
+    text ❯
+    fontSize 21
+    color #e6e6e6
+    when <isSelected
+    color #4d4d4d

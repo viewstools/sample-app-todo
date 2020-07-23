@@ -1,0 +1,9 @@
+Content View
+is together
+  Vertical
+  onClick <
+  width 100
+    ButtonText
+    fontSize 14
+    color #777
+    text Clear completed

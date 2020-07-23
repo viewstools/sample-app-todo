@@ -1,0 +1,10 @@
+Count View
+is together
+data todos
+dataFormat activeCountWithText
+  Horizontal
+  width 100
+    Body
+    text <value
+    marginRight 4
+    

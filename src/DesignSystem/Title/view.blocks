@@ -1,0 +1,9 @@
+Title View
+  Text
+  fontSize < 100
+  marginTop < 0
+  fontFamily Helvetica Neue, Arial
+  fontWeight < 100
+  text < todos
+  color < rgba(175, 47, 47, 0.15)
+  letterSpacing 0.5
